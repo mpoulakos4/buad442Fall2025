@@ -15,9 +15,8 @@
 ## 🖼️ Portfolio Images
 
 ### The Great Outdoors
-![The Great Outdoors](/Users/michaelpoulakos/Desktop/BUAD345/buad442Fall2025/IMG_3737.jpg)
+![The Great Outdoors](IMG_3737.jpg)
 
 ### Me and my Goddaughter
-![Me and my Goddaughter](/Users/michaelpoulakos/Desktop/BUAD345/buad442Fall2025/IMG_1043.jpeg)
-
+![Me and my Goddaughter](IMG_1043.jpeg)
 
